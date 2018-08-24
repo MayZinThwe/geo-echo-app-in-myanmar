@@ -1,0 +1,8 @@
+{
+  "rules": {
+    "App_list": {
+      ".read": true,
+      ".write": "auth.uid === '7K70piPrDxh4XeJCcHOEADtUXby2'"
+    }
+  }
+}
